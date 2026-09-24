@@ -1,0 +1,6 @@
+{
+  "name": "Digital MRV System - Support N/R Portal",
+  "description": "National MRV System Portal for Support Needed & Received (Support N/R) data collection, validation, and submission by Senior Entities in alignment with ETF and BTR reporting requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
